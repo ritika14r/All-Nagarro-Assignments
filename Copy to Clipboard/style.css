@@ -1,0 +1,44 @@
+body{
+    background-color:darkseagreen;
+    align-items: center;
+    opacity: 0.8;
+}
+h1{
+    text-align: center;
+    color:black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.display, .buttons ,.inputs{
+    text-align: center;
+}
+
+.display, .buttons {
+    margin-top: 50px;
+}
+
+
+.container{
+    align-self: center;
+    margin: auto;
+    margin-top: 25px;
+    padding-bottom: 50px;
+    padding-top: 10px;
+    width: 70%;
+}
+
+textarea{
+
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: white;
+    width: 80%;
+}
+
+button{
+    height: 2rem;
+    background-color: white;
+    color:black;
+    font-size: large;
+    font-weight: bold;
+}
