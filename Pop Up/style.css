@@ -1,0 +1,22 @@
+body{
+    background-color:cornflowerblue;
+}
+
+#box{
+    background-color:cornsilk;
+    height: 300px;
+    width: 600px;
+    visibility: hidden;
+}
+
+
+
+#box.show{
+    visibility: visible;
+}
+
+i{
+    margin-top: 20px;
+    float: right;
+    
+}
